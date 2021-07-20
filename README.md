@@ -4,9 +4,9 @@
 
 - LoveYouForms is comprised of an App Wrapper, and the Node Package.  The Node Package contains the primary codebase - I recommend looking at it. 
 
-- 1) wrapper repo is **<a href="https://github.com/LoveYouFyi/loveyouforms">loveyouforms</a>**
+- Wrapper repo is **<a href="https://github.com/LoveYouFyi/loveyouforms">loveyouforms</a>**
 
-- 2) Node Package repo is **<a href="https://github.com/LoveYouFyi/loveyouforms">loveyouforms</a>**
+- Node Package repo is **<a href="https://github.com/LoveYouFyi/loveyouforms">loveyouforms</a>**
 
 Thank you-
 Erik
