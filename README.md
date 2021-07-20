@@ -6,7 +6,7 @@
 * Google Sheets Sync
 * Email Notifications
 * Spam Filter with Akismet
-* Deployed to cloud Firebase, makes use of Firestore database
+* Deploys to cloud Firebase, makes use of Firestore database
 
 ### Codebase
 - LoveYouForms is comprised of an App Wrapper, and the Node Package. The Node Package contains the primary codebase - I recommend checking it out.
