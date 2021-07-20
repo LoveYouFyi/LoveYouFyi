@@ -1,8 +1,8 @@
-## Here to explore my coding style? Following is your best bet:
+## Are you here to explore my coding style?
 
-### LoveYouForms is a RESTful Node.js cloud app to handle form submissions for one website or 1,000
+### Check out LoveYouForms a RESTful Node.js cloud app to handle form submissions for one website or 1,000
 
-- Th App is comprised of an App Wrapper, and the Node Package.  The Node Package contains the primary codebase - I recommend looking at it. 
+- LoveYouForms is comprised of an App Wrapper, and the Node Package.  The Node Package contains the primary codebase - I recommend looking at it. 
 
 - 1) wrapper repo is **<a href="https://github.com/LoveYouFyi/loveyouforms">loveyouforms</a>**
 
