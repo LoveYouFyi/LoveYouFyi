@@ -9,7 +9,7 @@
 * Deployed to cloud Firebase, makes use of Firestore database
 
 ### Codebase
-LoveYouForms is comprised of an App Wrapper, and a Node Package. The **Node Package** contains the primary codebase - I recommend checking it out.
+LoveYouForms is comprised of an App Wrapper, and the Node Package. The **Node Package** contains the primary codebase - I recommend checking it out.
 
 1. Node Package (primary codebase) repo is **<a href="https://github.com/LoveYouFyi/loveyouforms-package">loveyouforms-package</a>**
 
