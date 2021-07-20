@@ -1,15 +1,17 @@
 ## Are you here to explore my coding style?
 
 ### LoveYouForms is a RESTful Node.js cloud app to handle form submissions for one website or 1,000
+
+#### Features
 * Google Sheets Sync
 * Email Notifications
 * Spam Filter with Akismet
 
 - LoveYouForms is comprised of an App Wrapper, and the Node Package. The Node Package contains the primary codebase - I recommend checking it out.
 
-- Node Package (primary codebase) repo is **<a href="https://github.com/LoveYouFyi/loveyouforms-package">loveyouforms-package</a>**
+1. Node Package (primary codebase) repo is **<a href="https://github.com/LoveYouFyi/loveyouforms-package">loveyouforms-package</a>**
 
-- Wrapper repo is **<a href="https://github.com/LoveYouFyi/loveyouforms">loveyouforms</a>**
+2. Wrapper repo is **<a href="https://github.com/LoveYouFyi/loveyouforms">loveyouforms</a>**
 
 Thank you-<br>
 Erik
