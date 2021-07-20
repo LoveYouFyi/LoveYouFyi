@@ -1,6 +1,6 @@
 ## Are you here to explore my coding style?
 
-### LoveYouForms is RESTful Node.js cloud app to handle form submissions for one website or 1,000
+### LoveYouForms is a RESTful Node.js cloud app to handle form submissions for one website or 1,000
 
 - LoveYouForms is comprised of an App Wrapper, and the Node Package. The Node Package contains the primary codebase - I recommend checking it out.
 
