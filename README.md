@@ -1,6 +1,6 @@
 # Are you here to explore my coding style?
 
-### Then check out ❤️ LoveYouForms ❤️ ...
+### ... then check out ❤️ LoveYouForms ...
 
 ### ❤️ LoveYouForms❤️ is a RESTful Node.js cloud app to handle form submissions for one website or 1,000
 
