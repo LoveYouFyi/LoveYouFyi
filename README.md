@@ -17,9 +17,7 @@
 
 2. Wrapper repo is here **<a href="https://github.com/LoveYouFyi/loveyouforms">loveyouforms</a>**
 
-### Video Demo
-
-### Watch the video demo ❤️ **<a href="https://player.vimeo.com/video/579210454">for LoveYouForms here</a>** ❤️
+### Video Demo ❤️ **<a href="https://player.vimeo.com/video/579210454">for LoveYouForms here</a>** ❤️
 
 # Are you here to watch the TNT Cloud video demo?
 
