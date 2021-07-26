@@ -24,9 +24,10 @@
 ### 🚚 TNT Cloud 🚚 is a Custom Real-time Kanban board (and more) - a RESTful Node.js cloud app 
 
 ### Features of TNT Cloud
-* Custom Kanban Board
+* Custom Kanban Board (real-time interactive)
 * Search & date filter
 * User permissions
+* Firebase realtime database
 
 # 🖥️  Video Demo 🚚 **<a href="https://player.vimeo.com/video/579228351">for TNT Cloud here</a>** 🚚 
 
