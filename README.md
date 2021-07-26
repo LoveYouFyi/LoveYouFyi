@@ -19,11 +19,11 @@
 
 ### Video Demo 
 
-# 🖥️ Watch the video demo ❤️ **<a href="https://player.vimeo.com/video/579393677">for LoveYouForms here</a>** ❤️
+## 🖥️ Watch the video demo ❤️ **<a href="https://player.vimeo.com/video/579393677">for LoveYouForms here</a>** ❤️
 
 # Are you here to watch the TNT Cloud video demo?
 
-# 🖥️  ...then watch the video demo 🚚 **<a href="https://player.vimeo.com/video/579228351">for TNT Cloud here</a>** 🚚 
+## 🖥️  ...then watch the video demo 🚚 **<a href="https://player.vimeo.com/video/579228351">for TNT Cloud here</a>** 🚚 
 
 ### Features of TNT Cloud
 * Custom Kanban Board
