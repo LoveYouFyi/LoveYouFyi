@@ -1,6 +1,6 @@
 # Are you here to explore my coding style?
 
-## ...then check out LoveYouForms...
+### ...then check out LoveYouForms...
 
 ### ❤️ LoveYouForms❤️ is a RESTful Node.js cloud app to handle form submissions for one website or 1,000
 
@@ -20,7 +20,7 @@
 
 # Are you here to watch the TNT Cloud video demo?
 
-## ...then watch the video demo 🚚 **<a href="https://player.vimeo.com/video/579228351">for TNT Cloud here</a>** 🚚 
+### ...then watch the video demo 🚚 **<a href="https://player.vimeo.com/video/579228351">for TNT Cloud here</a>** 🚚 
 
 ### Features of TNT Cloud
 * Custom Kanban Board
