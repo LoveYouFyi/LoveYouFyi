@@ -5,7 +5,10 @@
 ### ❤️ LoveYouForms❤️ is a RESTful Node.js cloud app to handle form submissions for one website or 1,000
 
 ### Features
-* Google Sheets Sync + Email Notifications + Spam Filter with Akismet + Cloud Firebase Database & Cloud Functions
+* Google Sheets Sync
+* Email Notifications
+* Spam Filter with Akismet
+* Deployed to cloud Firebase, makes use of Firestore database
 
 ### Codebase
 **LoveYouForms** is comprised of an App Wrapper, and the Node Package. The **Node Package** contains the primary codebase, I recommend checking it out.
