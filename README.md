@@ -29,7 +29,7 @@
 * User permissions
 * Firebase realtime database
 
-# 🖥️  Video Demo 🚚 **<a href="https://player.vimeo.com/video/579228351">for TNT Cloud here</a>** 🚚 
+# 🖥️  Video Demo = Confidential 🚚 **<a href="https://loveyou.fyi">Contact me for the link</a>** 🚚 
 
 Thank you-<br>
 Erik
